@@ -1,2 +1,3 @@
 memahami fungsi secara rekursif
 memahami algoritma mergesort dan quick sort
+mengerjakan tugas kelompok di github
